@@ -1,0 +1,13 @@
+form
+{
+    background-color: bisque;
+    align-content: normal;
+    margin-left: 500px;
+    padding: 40px;
+    margin-right: 500px;
+    /* border-style: inset; */
+    /* border-style: outset; */
+    border-style: groove;
+    white-space: break-spaces;
+ 
+}
